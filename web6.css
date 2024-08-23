@@ -1,0 +1,43 @@
+#lf{
+   background-color:#FBE8A6 ;
+   padding: 20px;
+   margin: 15px;
+}
+
+#rg{
+    background-color: #F4976C;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+}
+
+.bb{
+    background-color:#FBE8A6 ;
+    padding: 20px;
+   margin: 10px;
+}
+
+#sal{
+  background-color: #303C6C;
+  padding: 20px;
+  margin: 15px;
+  text-align: center;
+}
+
+#edu{
+  background-color: #B4DFE5;
+  padding: 80px;
+   margin: 15px;
+   text-align: center;
+}
+
+
+.ed{
+    color: white;
+   
+}
+.an{
+    background-color: #B4DFE5;
+    padding: 10px;
+    margin: 5px;
+}
